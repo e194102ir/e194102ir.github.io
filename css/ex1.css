@@ -1,0 +1,28 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:aqua;
+}
+
+body{
+    background-image:url("../images/1.jpeg");
+    background-position: center;
+    background-attachment: :fixed;
+}
+
+h2{
+    color:white;
+    text-align: center;
+    background-color: aqua;
+}
+
+table{background-color: aqua}
+
+h3{
+    color:white;
+    background-color: aqua;
+}
+
+ol{
+    background-image: url(../images/2.jfif)
+}
