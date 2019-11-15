@@ -1,0 +1,27 @@
+h1{
+    color:blueviolet;
+    text-align:center;
+    background-color:aqua;
+}
+
+body{
+    background-image:url("../images/images.jfif");
+    background-position: center;
+    background-attachment: :fixed;
+}
+
+h2{
+    color:blueviolet;
+    text-align: center;
+    background-color: aqua;
+}
+
+h3{
+    color: blueviolet;
+    background-color: aquamarine;
+}
+
+h4{
+    color: plum;
+    background-color: red
+}
