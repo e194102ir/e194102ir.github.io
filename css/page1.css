@@ -1,0 +1,20 @@
+h1{
+    color:white;
+    text-align:center;
+    background-color:aqua;
+}
+
+body{
+    background-image:url("../images/haikei1.jpg");
+    background-position: center;
+    background-attachment: :fixed;
+}
+
+h2{
+    color:white;
+    text-align: center;
+    background-color: aqua;
+}
+
+table{background-color: aqua}
+
